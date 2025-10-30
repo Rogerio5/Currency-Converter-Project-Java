@@ -7,6 +7,12 @@
 
 ---
 
+## 📚 Formação
+Projeto desenvolvido como parte do programa **ONE - Oracle Next Education + Alura**  
+![ONE Oracle Next Education](oneAlura.png)
+
+---
+
 ## 🏅 Badges  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Rogerio5/ProjetoConversorDeMoedas)  
