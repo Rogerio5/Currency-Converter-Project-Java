@@ -111,6 +111,8 @@ void testCalculoComValorDecimal() {
 ```
 📌 Resultado esperado: todos os testes passaram com sucesso ✅
 
+![Testes passando](ConversorServiceTest.png)
+
 ---
 
 ▶️ Execução / Run Instructions
